@@ -1,6 +1,0 @@
-﻿ Opalenia przykładu:
- Odpal ubuntu:
-
-cd /mnt/c/Users/annar/Desktop/Kompilator/Kom
-clang test.ll
-./a.out

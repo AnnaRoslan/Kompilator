@@ -1,0 +1,10 @@
+{
+    "antlr4.generation": {
+        "mode": "external",
+        "outputDir": "compiler",
+        "language": "CSharp",
+        "listeners": true,
+        // "input": "test.txt",
+        "visitors": true
+    }
+}

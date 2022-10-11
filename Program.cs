@@ -13,6 +13,7 @@ namespace Kom
         {
             var program = File.ReadAllText("C:\\Users\\annar\\Desktop\\Kompilator\\Kom\\test.nw");
             Try(program + "\n");
+            
         }
 
         static void Try(string input)
